@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('/countdown.jpg');
+    background-image: url('../countdown.jpg');
     min-height: 100vh;
     background-size: cover;
     background-position: center center;
